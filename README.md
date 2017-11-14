@@ -1,1 +1,0 @@
-# Computacion_Grafica

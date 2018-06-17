@@ -1,0 +1,11 @@
+int a, b, c;
+int[2][2] k;
+float f, g;
+float h;
+
+b= 3;
+c = 5;
+a = b * 3 + 5;
+g = 3.5;
+f = g + 2.3;
+h = 3 + f + 2;

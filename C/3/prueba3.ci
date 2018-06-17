@@ -1,0 +1,4 @@
+suma:t0 = u + v
+z = t0
+t1 = z * 2
+z = t1

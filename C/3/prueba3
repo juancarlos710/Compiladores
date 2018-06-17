@@ -1,0 +1,26 @@
+int a, b, c;
+float f, g;
+float h;
+
+define int suma(int u, int v){
+    int z;
+    z = u + v;  
+    if( u > v ) 
+        z = z * 2;
+    else
+        z= 3;
+	return z;
+}
+
+define void main(void){
+    int k, j;
+    double d, doble;
+    b= 3;
+    c = 5;
+    a = b * 3 + 5;
+    g = 3.5f;
+    f = g + 2.3f;
+    h = 3 + f + 2;
+    d = h*2.3;
+    doble = d;
+}
